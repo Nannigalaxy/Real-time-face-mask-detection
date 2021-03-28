@@ -1,5 +1,5 @@
 # Real-time-face-mask-detection
-This repo only provides inferencing of face mask detection for use in application and serving. Original author for the code in this repo is [Chandrika Deb](https://github.com/chandrikadeb7/Face-Mask-Detection).  
+This repo only provides inferencing of face mask detection for use in applications and serving. Original author for the code found in this repo is [Chandrika Deb](https://github.com/chandrikadeb7/Face-Mask-Detection).  
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Live Demo](https://github.com/Nannigalaxy/Real-time-face-mask-detection/blob/main/output/Demo.gif)
