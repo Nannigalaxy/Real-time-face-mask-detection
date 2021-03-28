@@ -1,4 +1,5 @@
 # Real-time-face-mask-detection
+This repo only provides inferencing of face mask detection for use in application and serving. Original author for the code in this repo is [Chandrika Deb](https://github.com/chandrikadeb7/Face-Mask-Detection).
 
 ## Setting up Face Mask Detection project in Ubuntu  
 
@@ -53,3 +54,5 @@
 ```
 > python detect_mask_camera.py 
 ```
+## For Training and Results
+https://github.com/chandrikadeb7/Face-Mask-Detection
