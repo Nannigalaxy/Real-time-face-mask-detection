@@ -9,17 +9,17 @@
 
 2. Change your directory to the cloned repo and create a Python virtual environment named 'env', type the following commmand in command prompt
 ```
+> cd Real-time-face-mask-detection 
 > virtualenv env -p python3
 ```
 
 3. Activate the Virtual environment with
 ```
-> source .\env\bin\activate
+> source ./env/bin/activate
 ```
 
 4. Now, run the following command in your Command Prompt to install the libraries required
 ```
-> cd Real-time-face-mask-detection 
 > pip3 install -r requirements.txt
 ```
 
@@ -32,7 +32,8 @@
 
 2. Change your directory to the cloned repo and create a Python virtual environment named 'env', type the following commmand in command prompt
 ```
-> py -m venv env
+> cd Real-time-face-mask-detection 
+> python3 -m venv env
 ```
 
 3. Activate the Virtual environment with
@@ -42,7 +43,6 @@
 
 4. Now, run the following command in your Command Prompt to install the libraries required
 ```
-> cd Real-time-face-mask-detection 
 > pip3 install -r requirements.txt
 ```
 
@@ -51,5 +51,5 @@
 
 3. To detect face masks in real-time video streams type the following command:
 ```
-> python3 detect_mask_camera.py 
+> python detect_mask_camera.py 
 ```
